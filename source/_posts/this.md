@@ -2,7 +2,7 @@
 title: JavaScript之this指向
 date: 2018-07-24 13:30:46
 tags:
-- this 作用域
+- this
 categories:
 - JavaScript
 ---
